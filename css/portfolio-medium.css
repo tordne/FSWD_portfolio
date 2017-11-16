@@ -1,0 +1,28 @@
+/*
+ *
+ * header
+ *
+ */
+
+.header-title-M {
+	font-size: 2em;
+	color: #003d66;
+	float: right;
+	margin-top: 12px;
+	margin-bottom: 0px;
+	display: inline-block;
+}
+
+.header-sub-title-M {
+	font-size: 1em;
+	color: #003d66;
+	margin: 0px;
+	float: right;
+	display: inline-block;
+	clear: right;
+}
+
+.header-title, 
+.header-sub-title {
+	display: none;
+}
